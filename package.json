@@ -1,0 +1,31 @@
+{
+  "name": "nodemailer-yt",
+  "version": "1.0.0",
+  "description": "nodemailer api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasubham03/nodemailer-yt.git"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "Aditya Choudhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityasubham03/nodemailer-yt/issues"
+  },
+  "homepage": "https://github.com/adityasubham03/nodemailer-yt#readme",
+  "dependencies": {
+    "consola": "^3.2.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22"
+  }
+}
